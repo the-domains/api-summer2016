@@ -4,7 +4,7 @@
         <description><![CDATA[api-summer2016]]></description>
         <link>https://thegrid.ai/api-summer2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 17:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 18:27:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/api-summer2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/api-summer2016/a7838e81-f15a-40f7-a612-5ac339f90ac6/index.html</link>
             <guid isPermaLink="false">a7838e81-f15a-40f7-a612-5ac339f90ac6</guid>
             <pubDate>Mon, 13 Jun 2016 17:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb53e6e6-774a-4e83-baa8-4bc6d301ca78.jpg" alt="Hard at work">]]></description>
+            <link>http://hardatwork.no</link>
+            <guid isPermaLink="false">3a6f99cc-174e-4383-9b5d-c06cc872e67f</guid>
+            <pubDate>Mon, 13 Jun 2016 18:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/api-summer2016/78d77fc8-dba2-4dfe-9e14-f8cb64e1ff24/index.html</link>
             <guid isPermaLink="false">78d77fc8-dba2-4dfe-9e14-f8cb64e1ff24</guid>
             <pubDate>Mon, 13 Jun 2016 17:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72e3d21d-3ce1-4c2e-854a-2d757d486d23.jpg">]]></description>
-            <link>https://thegrid.ai/api-summer2016/424ee3f3-40c4-4b5b-a70c-183ed0b13e19/index.html</link>
-            <guid isPermaLink="false">424ee3f3-40c4-4b5b-a70c-183ed0b13e19</guid>
-            <pubDate>Mon, 13 Jun 2016 17:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
