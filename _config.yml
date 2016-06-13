@@ -1,14 +1,14 @@
-layout_spectrum: 0.14739538985304534
+layout_spectrum: 0.12664496945217252
 typography_spectrum: 0.37825686670839787
 color:
-  brandStrength: 0.8902482455596328
-  lightness: 0.19490732648409903
-  saturation: 0.30117224738933146
-  rhythmicContrast: 0.017469435231760144
+  brandStrength: 0.27894818712957203
+  lightness: 0.4298301327507943
+  saturation: 0.8184168564621359
+  rhythmicContrast: 0.9631241546012461
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: api-summer2016
