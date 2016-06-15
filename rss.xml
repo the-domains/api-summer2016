@@ -4,7 +4,7 @@
         <description><![CDATA[api-summer2016]]></description>
         <link>https://thegrid.ai/api-summer2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 18:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 14:40:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/api-summer2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/api-summer2016/a7838e81-f15a-40f7-a612-5ac339f90ac6/index.html</link>
             <guid isPermaLink="false">a7838e81-f15a-40f7-a612-5ac339f90ac6</guid>
             <pubDate>Mon, 13 Jun 2016 17:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ace5440-cc4e-4f04-8f4d-9edba2859629.jpg">]]></description>
+            <link>https://thegrid.ai/api-summer2016/ce0d8f3e-34ed-4865-b6e0-7fafa3071b80/index.html</link>
+            <guid isPermaLink="false">ce0d8f3e-34ed-4865-b6e0-7fafa3071b80</guid>
+            <pubDate>Wed, 15 Jun 2016 14:39:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/api-summer2016/f232aff5-8f4e-4018-b027-8eae538e8c64/index.html</link>
             <guid isPermaLink="false">f232aff5-8f4e-4018-b027-8eae538e8c64</guid>
             <pubDate>Mon, 13 Jun 2016 17:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e5b9fbc-9b7a-4511-bb63-592beced143c.jpg">]]></description>
-            <link>https://thegrid.ai/api-summer2016/78d77fc8-dba2-4dfe-9e14-f8cb64e1ff24/index.html</link>
-            <guid isPermaLink="false">78d77fc8-dba2-4dfe-9e14-f8cb64e1ff24</guid>
-            <pubDate>Mon, 13 Jun 2016 17:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
